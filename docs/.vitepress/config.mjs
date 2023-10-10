@@ -1,7 +1,15 @@
+/*
+ * @Description: 
+ * @Author: 欧阳承珺
+ * @LastEditors: 欧阳承珺
+ * @Date: 2023-10-09 18:03:04
+ * @LastEditTime: 2023-10-10 09:36:33
+ */
 import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/api-docs/',
   title: "My Awesome Project",
   description: "A VitePress Site",
   themeConfig: {
