@@ -22,7 +22,7 @@ features:
   - title: 安全平台
     icon: 🔑
     details: 这里写平台的介绍XXXXX靓仔
-    link: '/device/markdown-examples'
+    link: '/safety/markdown-examples'
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
